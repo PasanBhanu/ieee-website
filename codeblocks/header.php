@@ -32,7 +32,7 @@
                 <li><a href="events.php">Events</a></li>
                 <li><a href="blogs.php">Blog</a></li>
                 <li><a href="gallery.php">Gallery</a></li>
-                <li><a href="contact.php">Contact Us</a></li>
+                <li><a href="contact-us.php">Contact Us</a></li>
             </ul>
             <div class="buy-menu-btn d-none">
                 <a href="membership.php" class="btn btn-primary">Become a Member</a>
