@@ -89,7 +89,7 @@
                             </div>
                             <div class="content mt-3 overflow-hidden d-block">
                                 <h6 class="mb-0">Phone</h6>
-                                <a href="tel:+94 71 625 3666" class="text-primary">+94 71 625 3666</a>
+                                <a href="tel:+94766670996" class="text-primary">+94 76 667 0996</a>
                             </div>
                         </div>
 
