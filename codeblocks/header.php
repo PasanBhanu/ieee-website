@@ -30,7 +30,7 @@
                     </ul>
                 </li>
                 <li><a href="events.php">Events</a></li>
-                <li><a href="blogs.php">Blog</a></li>
+                <li><a href="blogs.php">Blogs</a></li>
                 <li><a href="gallery.php">Gallery</a></li>
                 <li><a href="contact-us.php">Contact Us</a></li>
             </ul>
