@@ -1,7 +1,7 @@
 <header id="topnav" class="defaultscroll sticky bg-white">
     <div class="container">
         <div>
-            <a class="logo" href="index.html">Landrick<span class="text-primary">.</span></a>
+            <a class="logo" href="index.php"><img height="50px" src="images/logo.png"><img></a>
         </div>
         <div class="buy-button">
             <a href="membership.php" class="btn btn-primary">Become a Member</a>

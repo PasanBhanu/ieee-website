@@ -1,4 +1,4 @@
-<link rel="shortcut icon" href="images/favicon.ico">
+<link href="images/favicon.png" rel="shortcut icon" type="image/x-icon" />
 <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
 <link href="css/materialdesignicons.min.css" rel="stylesheet" type="text/css" />
 <link href="css/magnific-popup.css" rel="stylesheet" type="text/css" />
