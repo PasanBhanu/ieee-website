@@ -3,7 +3,7 @@
 
 <head>
 
-    <title>IEEE University of Moratuwa Student Branch</title>
+    <title>TITLE - IEEE University of Moratuwa Student Branch</title>
 
     <meta name="description" content="META" />
 
@@ -26,9 +26,9 @@
                         <h4 class="title"> Title </h4>
                         <ul class="page-next d-inline-block bg-white shadow p-2 pl-4 pr-4 rounded mb-0">
                             <li><a href="index.html" class="text-uppercase font-weight-bold text-dark">Home</a></li>
-                            <li><a href="#" class="text-uppercase font-weight-bold text-dark">Page 1</a></li>
+                            <li><a href="events.php" class="text-uppercase font-weight-bold text-dark">Events</a></li>
                             <li>
-                                <span class="text-uppercase text-primary font-weight-bold">Page 2</span>
+                                <span class="text-uppercase text-primary font-weight-bold">Title</span>
                             </li>
                         </ul>
                     </div>

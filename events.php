@@ -3,9 +3,9 @@
 
 <head>
 
-    <title>IEEE University of Moratuwa Student Branch</title>
+    <title>Events - IEEE University of Moratuwa Student Branch</title>
 
-    <meta name="description" content="META" />
+    <meta name="description" content="Events hosted by IEEE University of Moratuwa Student Branch." />
 
     <?php require_once('codeblocks/meta.php'); ?>
 
@@ -23,12 +23,11 @@
             <div class="row justify-content-center">
                 <div class="col-lg-12 text-center">
                     <div class="page-next-level">
-                        <h4 class="title"> Title </h4>
+                        <h4 class="title"> Works & Portfolio </h4>
                         <ul class="page-next d-inline-block bg-white shadow p-2 pl-4 pr-4 rounded mb-0">
                             <li><a href="index.html" class="text-uppercase font-weight-bold text-dark">Home</a></li>
-                            <li><a href="#" class="text-uppercase font-weight-bold text-dark">Page 1</a></li>
                             <li>
-                                <span class="text-uppercase text-primary font-weight-bold">Page 2</span>
+                                <span class="text-uppercase text-primary font-weight-bold">Events</span>
                             </li>
                         </ul>
                     </div>
@@ -45,13 +44,21 @@
         </div>
     </div>
 
-
     <section class="section">
         <div class="container">
             <div class="row">
-                <div class="col-12">
-                    <h1>Introduction</h1>
-                    <p class="text-muted h5 font-weight-normal">Content</p>
+                <div class="col-lg-4 col-md-6 col-12 mb-4 pb-2">
+                    <div class="work-container position-relative rounded">
+                        <img src="images/events/thumbnail.jpg" class="img-fluid rounded" alt="work-image">
+                        <div class="overlay-work"></div>
+                        <div class="content">
+                            <a href="event_template.php" class="title text-white d-block font-weight-bold">Event Name</a>
+                            <small class="text-light">Chapter</small>
+                        </div>
+                        <div class="client">
+                            <small class="text-light date"><i class="mdi mdi-calendar-check"></i> 13th August, 2019</small>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

@@ -57,9 +57,9 @@
                             <div class="overlay rounded-top bg-dark"></div>
                         </div>
                         <div class="content p-4">
-                            <h4><a href="javascript:void(0)" class="title text-dark">Design your apps in your own way</a></h4>
+                            <h4><a href="blog_template.php" class="title text-dark">Design your apps in your own way</a></h4>
                             <div class="post-meta mt-3">
-                                <a href="javascript:void(0)" class="text-muted float-right readmore mb-2">Read More <i class="mdi mdi-chevron-right"></i></a>
+                                <a href="blog_template.php" class="text-muted float-right readmore mb-2">Read More <i class="mdi mdi-chevron-right"></i></a>
                             </div>
                         </div>
                         <div class="author">
