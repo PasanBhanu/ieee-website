@@ -23,7 +23,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-12 text-center">
                     <div class="page-next-level">
-                        <h4 class="title"> Works & Portfolio </h4>
+                        <h4 class="title"> Events </h4>
                         <ul class="page-next d-inline-block bg-white shadow p-2 pl-4 pr-4 rounded mb-0">
                             <li><a href="index.html" class="text-uppercase font-weight-bold text-dark">Home</a></li>
                             <li>
@@ -47,7 +47,18 @@
     <section class="section">
         <div class="container">
             <div class="row">
-                <div class="col-lg-4 col-md-6 col-12 mb-4 pb-2">
+                <ul class="col container-filter list-unstyled categories-filter text-center" id="filter">
+                    <li class="list-inline-item"><a class="categories border d-block text-dark rounded active" data-filter="*">All</a></li>
+                    <li class="list-inline-item"><a class="categories border d-block text-dark rounded" data-filter=".branch">Main Branch</a></li>
+                    <li class="list-inline-item"><a class="categories border d-block text-dark rounded" data-filter=".ias">IAS</a></li>
+                    <li class="list-inline-item"><a class="categories border d-block text-dark rounded" data-filter=".pes">PES</a></li>
+                    <li class="list-inline-item"><a class="categories border d-block text-dark rounded" data-filter=".ras">RAS</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row container-grid projects-wrapper">
+                <div class="col-lg-4 col-md-6 col-12 mb-4 pb-2 branch">
                     <div class="work-container position-relative rounded">
                         <img src="images/events/thumbnail.jpg" class="img-fluid rounded" alt="work-image">
                         <div class="overlay-work"></div>
