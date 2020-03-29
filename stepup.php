@@ -3,7 +3,7 @@
 
 <head>
 
-    <title>TITLE - IEEE University of Moratuwa Student Branch</title>
+    <title>StepUp - IEEE University of Moratuwa Student Branch</title>
 
     <meta name="description" content="META" />
 
@@ -48,7 +48,8 @@
 
     <section class="section">
         <div class="container">
-            <div class="row">
+            <div class="row justify-content-center">
+                <div align="center" class="col-md-8 mb-4"><img src="images/events/Step_up(800x400).jpg" class="img-fluid" width="100%"></div>
                 <div class="col-12">
                     <!-- <h1>Introduction</h1> -->
                     <p class="text-muted h5 font-weight-normal">Introducing a new concept to the IEEE Student Branch history in Sri Lanka, the first-ever officer induction and operation summit in a Student Branch based in Sri Lanka was held under the name “StepUp” which indeed provided the necessary motivation and courage for the newly appointed officers to keep their first step in being the leaders who carry the branch activities forward.</p>

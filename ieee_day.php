@@ -3,7 +3,7 @@
 
 <head>
 
-    <title>TITLE - IEEE University of Moratuwa Student Branch</title>
+    <title>IEEE Day - IEEE University of Moratuwa Student Branch</title>
 
     <meta name="description" content="META" />
 
@@ -48,10 +48,10 @@
 
     <section class="section">
         <div class="container">
-            <div class="row">
+            <div class="row justify-content-center">
+                <div align="center" class="col-md-8 mb-4"><img src="images/events/IEEE_Day(800x600).jpg" class="img-fluid" width="100%"></div>
                 <div class="col-12">
-                    <h1>Introduction</h1>
-                    <p class="text-muted h5 font-weight-normal">IEEE Day is a  day of celebration to all the IEEE members of the world. Upon remembrance of IEEE’s origin and to celebrate its worldwide membership, IEEE Day will be held on the first Tuesday in every October as inaugurated this month, back in 1884. This event celebration is the place where the engineers worldwide and IEEE associate members are gathered to share their innovative technical ideas on all perspectives of serving the community.</p>
+                    <p class="text-muted h5 font-weight-normal">IEEE Day is a day of celebration to all the IEEE members of the world. Upon remembrance of IEEE’s origin and to celebrate its worldwide membership, IEEE Day will be held on the first Tuesday in every October as inaugurated this month, back in 1884. This event celebration is the place where the engineers worldwide and IEEE associate members are gathered to share their innovative technical ideas on all perspectives of serving the community.</p>
                     <p class="text-muted h5 font-weight-normal">Commemoration of IEEE Day by the members of IEEE Student Branch, University of Moratuwa in a grand scale was first initiated in the year 2019 by organizing a celebration with the participation of over 200 IEEE and non-IEEE members of University of Moratuwa and other institutions in the area.</p>
                     <p class="text-muted h5 font-weight-normal">This grand event was held with the motive of increasing awareness on IEEE and inspiring young tech enthusiasts to join the organization. .All participants were made aware of how to volunteer with IEEE, advantages of getting IEEE membership, opportunities in IEEE and how to be a giant in IEEE. During the event, the 10th anniversary of IEEE was celebrated by cutting a specially made cake.</p>
                     <p class="text-muted h5 font-weight-normal">Several informative sessions related to the theme of the IEEE Day were held where the insights and knowledge of nationally recognized professionals were shared with the participants. Different fun and entertainment activities were also held during the event in order to lighten up the day while entertaining the audience.</p>
