@@ -80,12 +80,9 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-12 text-center">
                                 <div class="title-heading mt-4">
-                                    <h6 class="text-light para-dark animated fadeInDownBig animation-delay-1">Our Space for You</h6>
-                                    <h1 class="heading mb-3 text-white title-dark animated fadeInUpBig animation-delay-3">Own Your Office For A Day</h1>
-                                    <p class="para-desc mx-auto text-light para-dark animated fadeInUpBig animation-delay-7">Launch your campaign and benefit from our expertise on designing and managing conversion centered bootstrap4 html page.</p>
-                                    <div class="watch-video mt-4 pt-2 animated fadeInUpBig animation-delay-11">
-                                        <a href="http://vimeo.com/99025203" class="video-play-icon watch text-white title-dark mb-2 ml-2"><i class="mdi mdi-play play-icon-circle text-center d-inline-block mr-2 rounded-pill text-white title-dark position-relative play play-iconbar"></i> WATCH VIDEO</a>
-                                    </div>
+                                    <h6 class="text-light para-dark animated fadeInDownBig animation-delay-1">IEEE Day 2019</h6>
+                                    <h1 class="heading mb-3 text-white title-dark animated fadeInUpBig animation-delay-3">A memory worth $500</h1>
+                                    <p class="para-desc mx-auto text-light para-dark animated fadeInUpBig animation-delay-7">The most cherished capture which flashbacks the memory of the victory at IEEE Day Photo Contest 2019</p>
                                 </div>
                             </div>
                             <!--end col-->
