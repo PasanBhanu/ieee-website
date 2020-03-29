@@ -18,14 +18,14 @@
 
     <?php require_once('codeblocks/header.php'); ?>
 
-    <section class="bg-half bg-light d-table w-100">
+    <section class="bg-half bg-light d-table w-100" style="background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('images/events/Stud_Pro(800x400).jpg');background-size:cover;color:#fff;">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-12 text-center">
                     <div class="page-next-level">
                         <h4 class="title"> StudPro </h4>
                         <ul class="page-next d-inline-block bg-white shadow p-2 pl-4 pr-4 rounded mb-0">
-                            <li><a href="index.html" class="text-uppercase font-weight-bold text-dark">Home</a></li>
+                            <li><a href="index.php" class="text-uppercase font-weight-bold text-dark">Home</a></li>
                             <li><a href="events.php" class="text-uppercase font-weight-bold text-dark">Events</a></li>
                             <li>
                                 <span class="text-uppercase text-primary font-weight-bold">StudPro</span>

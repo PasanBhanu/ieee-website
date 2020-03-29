@@ -29,7 +29,7 @@
                             <li class="list-inline-item h6 date text-muted"><i class="mdi mdi-calendar-check"></i> 13th August, 2019</li>
                         </ul>
                         <ul class="page-next d-inline-block bg-white shadow p-2 pl-4 pr-4 rounded mb-0">
-                            <li><a href="index.html" class="text-uppercase font-weight-bold text-dark">Home</a></li>
+                            <li><a href="index.php" class="text-uppercase font-weight-bold text-dark">Home</a></li>
                             <li><a href="#" class="text-uppercase font-weight-bold text-dark">Blogs</a></li>
                             <li>
                                 <span class="text-uppercase text-primary font-weight-bold">Blog Title</span>
