@@ -45,13 +45,59 @@
         </div>
     </div>
 
+    <section class="section">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-5 col-md-5 mt-4 pt-2 mt-sm-0 pt-sm-0">
+                    <div class="position-relative">
+                        <img src="images/chapters/ias.jpg" class="rounded img-fluid mx-auto d-block" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-7 col-md-7 mt-4 pt-2 mt-sm-0 pt-sm-0">
+                    <div class="section-title ml-lg-4">
+                        <h4 class="title mb-4">Industry Applications Society</h4>
+                        <p class="text-muted">The IEEE Industry Applications Society (IAS), focuses on the advancement of the theory and practice of electrical and electronic engineering for the benefit of humanity. The IEEE IAS Student Branch Chapter of University of Moratuwa follows the vision and mission of IAS to enhance the knowledge and skills of future engineers to serve the community through technology while inspiring them to develop engineering solutions to existing problems through empathy. The Student Branch Chapter annually organizes a lecture series of various aspects vital for engineering undergraduates, along with field visits. This year, the Student Branch Chapter has set forth on a novel initiative to spread awareness about IAS and its benefits to the undergraduate community around the country.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <section class="section">
         <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <h1>Introduction</h1>
-                    <p class="text-muted h5 font-weight-normal">Content</p>
+            <div class="row align-items-center">
+                <div class="col-lg-7 col-md-7 mt-4 pt-2 mt-sm-0 pt-sm-0">
+                    <div class="section-title ml-lg-4">
+                        <h4 class="title mb-4">Power & Energy Society</h4>
+                        <p class="text-muted">IEEE PES Student Branch Chapter of University of Moratuwa student branch provides a valuable platform for the enthusiastic undergraduates to expose to the latest developments in the field of electric power and to engage in a wide range of activities which immensely help them to develop and sharpen the innovative ideas, competencies and the potential within themselves. The IEEE PES Student Branch Chapter of University of Moratuwa which was awarded the High Performing IEEE PES Student Branch Chapter award in two consecutive years 2018 and 2019, focuses on coming up with new initiatives to empower young undergraduates to gain experience in power and energy sector and to enhance their professional development as future engineers.
+
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-5 col-md-5 mt-4 pt-2 mt-sm-0 pt-sm-0">
+                    <div class="position-relative">
+                        <img src="images/chapters/pes.jpg" class="rounded img-fluid mx-auto d-block" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-5 col-md-5 mt-4 pt-2 mt-sm-0 pt-sm-0">
+                    <div class="position-relative">
+                        <img src="images/chapters/wie.jpg" class="rounded img-fluid mx-auto d-block" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-7 col-md-7 mt-4 pt-2 mt-sm-0 pt-sm-0">
+                    <div class="section-title ml-lg-4">
+                        <h4 class="title mb-4">Women in Engineering</h4>
+                        <p class="text-muted">Student branch affinity group of IEEE Women in Engineering of University of Moratuwa is the first-ever WIE affinity group established in Sri Lanka which is dedicated to empowering and encouraging women to engage in utilizing their skills and potentials in pursuing their aspirations in the STEM fields. With over 150 volunteers from various disciplines of engineering and technology in the university, WIE student branch affinity group of UoM works together to support and promote women engineers and inspire young women into STEM fields through various events and projects.
+                        </p>
+                    </div>
                 </div>
             </div>
         </div>
