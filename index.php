@@ -173,7 +173,7 @@
                 <div class="col-lg-7 col-md-6 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
                     <div class="section-title ml-lg-4">
                         <h4 class="title mb-4">Welcome to IEEE University of Moratuwa</h4>
-                        <p class="text-muted">Start working with <span class="text-primary font-weight-bold">Landrick Space</span> that can provide everything you need to generate awareness, drive traffic, connect. Dummy text is text that is used in the publishing industry or by web designers to occupy the space which will later be filled with 'real' content. This is required when, for example, the final text is not yet available. Dummy texts have been in use by typesetters since the 16th century.</p>
+                        <p class="text-muted">Welcome to the official website of the IEEE Student Branch University of Moratuwa. IEEE Student Branch University of Moratuwa is one of the leading student branches in Sri Lanka with a proud history of over (number) years. Our student branch provides a major platform in flourishing innovative and creative ideas of the undergraduates. Currently, around (number)+ subscribers together with an extensive number of fervent volunteers are involved in many aspects. In spite of developing technological and professional skills, it’s vividly concerned about uplifting unity and harmony among the members too. Therefore we as IEEE UOM community believe that it is not only a student branch but also a family hand in hand with togetherness and humanity.</p>
                     </div>
                 </div>
                 <!--end col-->
@@ -185,117 +185,15 @@
     <!--end section-->
     <!-- About End -->
 
-    <!-- Services Start -->
-    <section class="section bg-light">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-12 text-center">
-                    <div class="section-title mb-4 pb-2">
-                        <h4 class="title mb-4">Your Comfort is Our Priority</h4>
-                        <p class="text-muted para-desc mx-auto mb-0">Start working with <span class="text-primary font-weight-bold">Landrick</span> that can provide everything you need to generate awareness, drive traffic, connect.</p>
-                    </div>
-                </div>
-                <!--end col-->
-            </div>
-            <!--end row-->
-
-            <div class="row">
-                <div class="col-lg-3 col-md-4 col-6 mt-4 pt-2">
-                    <div class="features text-center pt-3 pb-3">
-                        <img src="images/icon/wifi.svg" height="50" alt="">
-                        <div class="content mt-3">
-                            <h4 class="title-2">Fast Internet</h4>
-                        </div>
-                    </div>
-                </div>
-                <!--end col-->
-
-                <div class="col-lg-3 col-md-4 col-6 mt-4 pt-2">
-                    <div class="features text-center pt-3 pb-3">
-                        <img src="images/icon/printer.svg" height="50" alt="">
-                        <div class="content mt-3">
-                            <h4 class="title-2">Printer & Fax</h4>
-                        </div>
-                    </div>
-                </div>
-                <!--end col-->
-
-                <div class="col-lg-3 col-md-4 col-6 mt-4 pt-2">
-                    <div class="features text-center pt-3 pb-3">
-                        <img src="images/icon/serving-dish.svg" height="50" alt="">
-                        <div class="content mt-3">
-                            <h4 class="title-2">Modern Kitchen</h4>
-                        </div>
-                    </div>
-                </div>
-                <!--end col-->
-
-                <div class="col-lg-3 col-md-4 col-6 mt-4 pt-2">
-                    <div class="features text-center pt-3 pb-3">
-                        <img src="images/icon/24-hours.svg" height="50" alt="">
-                        <div class="content mt-3">
-                            <h4 class="title-2">24 Hr Access</h4>
-                        </div>
-                    </div>
-                </div>
-                <!--end col-->
-
-                <div class="col-lg-3 col-md-4 col-6 mt-4 pt-2">
-                    <div class="features text-center pt-3 pb-3">
-                        <img src="images/icon/mail2.svg" height="50" alt="">
-                        <div class="content mt-3">
-                            <h4 class="title-2">Mail Service</h4>
-                        </div>
-                    </div>
-                </div>
-                <!--end col-->
-
-                <div class="col-lg-3 col-md-4 col-6 mt-4 pt-2">
-                    <div class="features text-center pt-3 pb-3">
-                        <img src="images/icon/calendar_b.svg" height="50" alt="">
-                        <div class="content mt-3">
-                            <h4 class="title-2">Events Space</h4>
-                        </div>
-                    </div>
-                </div>
-                <!--end col-->
-
-                <div class="col-lg-3 col-md-4 col-6 mt-4 pt-2">
-                    <div class="features text-center pt-3 pb-3">
-                        <img src="images/icon/question.svg" height="50" alt="">
-                        <div class="content mt-3">
-                            <h4 class="title-2">Conference Rooms</h4>
-                        </div>
-                    </div>
-                </div>
-                <!--end col-->
-
-                <div class="col-lg-3 col-md-4 col-6 mt-4 pt-2">
-                    <div class="features text-center pt-3 pb-3">
-                        <img src="images/icon/coffee-cup.svg" height="50" alt="">
-                        <div class="content mt-3">
-                            <h4 class="title-2">Organic Tea & Coffee</h4>
-                        </div>
-                    </div>
-                </div>
-                <!--end col-->
-            </div>
-            <!--end row-->
-        </div>
-        <!--end container-->
-    </section>
-    <!--end section-->
-    <!-- Services End -->
-
     <!-- Start Client And Blog -->
-    <section class="section">
+    <section class="section bg-light">
         <!-- Start Blog -->
         <div class="container mt-100 mt-60">
             <div class="row justify-content-center">
                 <div class="col-12 text-center">
                     <div class="section-title mb-4 pb-2">
                         <h4 class="title mb-4">Latest News & Events</h4>
-                        <p class="text-muted para-desc mx-auto mb-0">Start working with <span class="text-primary font-weight-bold">Landrick</span> that can provide everything you need to generate awareness, drive traffic, connect.</p>
+                        <p class="text-muted para-desc mx-auto mb-0">Browse our latest events and news</p>
                     </div>
                 </div>
                 <!--end col-->
@@ -303,77 +201,45 @@
             <!--end row-->
 
             <div class="row">
-                <div class="col-lg-4 col-md-6 mt-4 pt-2">
-                    <div class="blog position-relative overflow-hidden shadow rounded">
-                        <div class="position-relative">
-                            <img src="images/blog/01.jpg" class="img-fluid rounded-top" alt="">
-                            <div class="overlay rounded-top bg-dark"></div>
+                <div class="col-lg-4 col-md-6 col-12 mb-4 pb-2 branch">
+                    <div class="work-container position-relative rounded">
+                        <img src="images/events/IEEE_Open_Day(800x600).jpg" class="img-fluid rounded" alt="work-image">
+                        <div class="overlay-work"></div>
+                        <div class="content">
+                            <a href="ieee_open_day.php" class="title text-white d-block font-weight-bold">IEEE Open Day</a>
+                            <small class="text-light">Event</small>
                         </div>
-                        <div class="content p-4">
-                            <h4><a href="javascript:void(0)" class="title text-dark">Design your apps in your own way</a></h4>
-                            <div class="post-meta mt-3">
-                                <a href="javascript:void(0)" class="text-muted float-right readmore">Read More <i class="mdi mdi-chevron-right"></i></a>
-                                <ul class="list-unstyled mb-0">
-                                    <li class="list-inline-item mr-2"><a href="javascript:void(0)" class="text-muted like"><i class="mdi mdi-heart-outline mr-1"></i>33</a></li>
-                                    <li class="list-inline-item"><a href="javascript:void(0)" class="text-muted comments"><i class="mdi mdi-comment-outline mr-1"></i>08</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="author">
-                            <small class="text-light user d-block"><i class="mdi mdi-account"></i> Calvin Carlo</small>
-                            <small class="text-light date"><i class="mdi mdi-calendar-check"></i> 13th August, 2019</small>
+                        <div class="client">
+                            <!-- <small class="text-light date"><i class="mdi mdi-calendar-check"></i>13th August, 2019</small> -->
                         </div>
                     </div>
                 </div>
-                <!--end col-->
-
-                <div class="col-lg-4 col-md-6 mt-4 pt-2">
-                    <div class="blog position-relative overflow-hidden shadow rounded">
-                        <div class="position-relative">
-                            <img src="images/blog/02.jpg" class="img-fluid rounded-top" alt="">
-                            <div class="overlay rounded-top bg-dark"></div>
+                <div class="col-lg-4 col-md-6 col-12 mb-4 pb-2 branch">
+                    <div class="work-container position-relative rounded">
+                        <img src="images/events/Stud_Pro(800x600).jpg" class="img-fluid rounded" alt="work-image">
+                        <div class="overlay-work"></div>
+                        <div class="content">
+                            <a href="studpro.php" class="title text-white d-block font-weight-bold">StudPro</a>
+                            <small class="text-light">Event</small>
                         </div>
-                        <div class="content p-4">
-                            <h4><a href="javascript:void(0)" class="title text-dark">How apps is changing the IT world</a></h4>
-                            <div class="post-meta mt-3">
-                                <a href="javascript:void(0)" class="text-muted float-right readmore">Read More <i class="mdi mdi-chevron-right"></i></a>
-                                <ul class="list-unstyled mb-0">
-                                    <li class="list-inline-item mr-2"><a href="javascript:void(0)" class="text-muted like"><i class="mdi mdi-heart-outline mr-1"></i>33</a></li>
-                                    <li class="list-inline-item"><a href="javascript:void(0)" class="text-muted comments"><i class="mdi mdi-comment-outline mr-1"></i>08</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="author">
-                            <small class="text-light user d-block"><i class="mdi mdi-account"></i> Calvin Carlo</small>
-                            <small class="text-light date"><i class="mdi mdi-calendar-check"></i> 13th August, 2019</small>
+                        <div class="client">
+                            <!-- <small class="text-light date"><i class="mdi mdi-calendar-check"></i> 13th August, 2019</small> -->
                         </div>
                     </div>
                 </div>
-                <!--end col-->
-
-                <div class="col-lg-4 col-md-6 mt-4 pt-2">
-                    <div class="blog position-relative overflow-hidden shadow rounded">
-                        <div class="position-relative">
-                            <img src="images/blog/03.jpg" class="img-fluid rounded-top" alt="">
-                            <div class="overlay rounded-top bg-dark"></div>
+                <div class="col-lg-4 col-md-6 col-12 mb-4 pb-2 branch">
+                    <div class="work-container position-relative rounded">
+                        <img src="images/events/IEEE_Day(800x600).jpg" class="img-fluid rounded" alt="work-image">
+                        <div class="overlay-work"></div>
+                        <div class="content">
+                            <a href="ieee_day.php" class="title text-white d-block font-weight-bold">IEEE Day</a>
+                            <small class="text-light">Event</small>
                         </div>
-                        <div class="content p-4">
-                            <h4><a href="javascript:void(0)" class="title text-dark">Smartest Applications for Business</a></h4>
-                            <div class="post-meta mt-3">
-                                <a href="javascript:void(0)" class="text-muted float-right readmore">Read More <i class="mdi mdi-chevron-right"></i></a>
-                                <ul class="list-unstyled mb-0">
-                                    <li class="list-inline-item mr-2"><a href="javascript:void(0)" class="text-muted like"><i class="mdi mdi-heart-outline mr-1"></i>33</a></li>
-                                    <li class="list-inline-item"><a href="javascript:void(0)" class="text-muted comments"><i class="mdi mdi-comment-outline mr-1"></i>08</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="author">
-                            <small class="text-light user d-block"><i class="mdi mdi-account"></i> Calvin Carlo</small>
-                            <small class="text-light date"><i class="mdi mdi-calendar-check"></i> 13th August, 2019</small>
+                        <div class="client">
+                            <!-- <small class="text-light date"><i class="mdi mdi-calendar-check"></i> 13th August, 2019</small> -->
                         </div>
                     </div>
                 </div>
-                <!--end col-->
             </div>
             <!--end row-->
         </div>
