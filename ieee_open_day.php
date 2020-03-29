@@ -3,7 +3,7 @@
 
 <head>
 
-    <title>TITLE - IEEE University of Moratuwa Student Branch</title>
+    <title>IEEE Open Day - IEEE University of Moratuwa Student Branch</title>
 
     <meta name="description" content="META" />
 
@@ -48,7 +48,8 @@
 
     <section class="section">
         <div class="container">
-            <div class="row">
+            <div class="row justify-content-center">
+                <div align="center" class="col-md-8 mb-4"><img src="images/events/IEEE_Open_Day(800x400).jpg" class="img-fluid" width="100%"></div>
                 <div class="col-12">
                     <!-- <h1>Introduction</h1> -->
                     <p class="text-muted h5 font-weight-normal">IEEE Open Day is a major event organized by the Student Branch with the motive of providing the newbies with an inspirational awareness session on IEEE and IEEE Student Branch, University of Moratuwa.</p>

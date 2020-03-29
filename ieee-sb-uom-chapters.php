@@ -110,16 +110,31 @@
                     <div class="section-title ml-lg-4">
                         <h4 class="title mb-4">Engineering in Medicine Biology Society</h4>
                         <p class="text-muted">IEEE Engineering in Medicine and Biology Society (EMBS) is the world’s largest international society of biomedical engineers. Our members design the electrical circuits that make a pacemaker run, create the software that reads an MRI, and help develop the wireless technologies that allow patients and doctors to communicate over long distances. They’re interested in bioinformatics, biotechnology, clinical engineering, information technology, instrumentation and measurement, micro and nanotechnology, radiology, and robots. They are researchers and educators, technicians and clinicians—biomedical engineers are the link between science and life science, creating innovations in healthcare technology for the benefit of all humanity.
-                        The IEEE EMBS Student Branch Chapter at University of Moratuwa was established in 2014 and have contributed ever since to create awareness about Biomedical Engineering not only within the university but also within the country. Each year the chapter organizes BME seminars featuring advanced topics related to Biomedical Science and Engineering. We have hosted esteemed experts and academics from well-known universities such as University of Melbourne, Harvard University, John Hopkins University etc., to deliver talks at these seminars. The chapter also organizes a few workshops each year featuring areas such as Brain Computer Interfaces, Bioinformatics, Medical Image Processing, etc. In 2017, we organized the TechMedImpact forum which created a platform for engineering, medical professionals and entrepreneurs to discuss current problems in the Sri Lankan healthcare system and how Biomedical Engineers can provide solutions for them. This was the first-ever Biomedical Engineering forum that was held in Sri Lanka. The annual flagship event of the chapter is the “Brainstorm” competition. It is the country’s premier Biomedical Engineering Design Competition where the participants get to showcase their engineering solutions for medical problems in a competitive manner.
-                        The EMBS student branch chapter at UoM would continue to make a positive impact on the Biomedical Engineering field in Sri Lanka, in the years to come.
-
-
                         </p>
                     </div>
                 </div>
                 <div class="col-lg-5 col-md-5 mt-4 pt-2 mt-sm-0 pt-sm-0">
                     <div class="position-relative">
                         <img src="images/chapters/embs.jpg" class="rounded img-fluid mx-auto d-block" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-5 col-md-5 mt-4 pt-2 mt-sm-0 pt-sm-0">
+                    <div class="position-relative">
+                        <img src="images/chapters/cs.jpg" class="rounded img-fluid mx-auto d-block" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-7 col-md-7 mt-4 pt-2 mt-sm-0 pt-sm-0">
+                    <div class="section-title ml-lg-4">
+                        <h4 class="title mb-4">Computer Society</h4>
+                        <p class="text-muted">The IEEE Computer Society is the world’s home for computer science, engineering, and technology. A global leader in providing access to computer science research, analysis, and information, the IEEE Computer Society offers a comprehensive array of unmatched products, services, and opportunities for individuals at all stages of their professional career. Known as the premier organization that empowers the people who drive technology, its unparalleled resources include membership, international conferences, peer-reviewed publications, a unique digital library, standards, and training programs.
+                        </p>
                     </div>
                 </div>
             </div>
