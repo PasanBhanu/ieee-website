@@ -51,7 +51,15 @@
             <div class="row">
                 <div class="col-12">
                     <h1>Introduction</h1>
-                    <p class="text-muted h5 font-weight-normal">Content</p>
+                    <p class="text-muted font-weight-normal">Institute of EEE is the world’s largest technical professional organization with over 419,000 members spread over 160 countries and is dedicated to advancing technology for the benefit of Humanity. IEEE currently possess a student member base of over 124,000 in 3,422 student branches at colleges and universities of over 100 countries. IEEE and its members inspire its community through its high-profile journals, conferences, technology standards, and professional and educational programs. 1,834 chapters of IEEE provide a platform for local members with similar technical interests to get together.
+                    </p>
+
+                    <h2>Mission</h2>
+                    <p class="text-muted font-weight-normal">IEEE's core purpose is to foster technological innovation and excellence for the benefit of humanity.</p>
+
+                    <h2>Vision</h2>
+                    <p class="text-muted font-weight-normal">IEEE will be essential to the global technical community and to technical professionals everywhere, and be universally recognized for the contributions of technology and of technical professionals in improving global conditions.
+                    </p>
                 </div>
             </div>
         </div>
