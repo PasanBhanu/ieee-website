@@ -1056,7 +1056,7 @@ button:not(:disabled) {
 }
 
 .avatar.avatar-ex-sm {
-  max-height: 25px;
+  max-height: 60px;
 }
 
 .avatar.avatar-md-sm {

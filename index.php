@@ -23,7 +23,7 @@
     <section class="home-slider position-relative">
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
-                <div class="carousel-item align-items-center active" style="background-image:url('images/coworking/bg01.jpg');">
+                <div class="carousel-item align-items-center active" style="background-image:url('images/slider/1.jpg');">
                     <div class="bg-overlay"></div>
                     <div class="container">
                         <div class="row justify-content-center">
@@ -45,7 +45,7 @@
                 </div>
                 <!--end carousel item-->
 
-                <div class="carousel-item align-items-center" style="background-image:url('images/coworking/bg02.jpg');">
+                <div class="carousel-item align-items-center" style="background-image:url('images/slider/2.jpg');">
                     <div class="bg-overlay"></div>
                     <div class="container">
                         <div class="row justify-content-center">
@@ -74,7 +74,7 @@
                 </div>
                 <!--end carousel item-->
 
-                <div class="carousel-item align-items-center" style="background-image:url('images/coworking/bg03.jpg');">
+                <div class="carousel-item align-items-center" style="background-image:url('images/slider/3.jpg');">
                     <div class="bg-overlay"></div>
                     <div class="container">
                         <div class="row justify-content-center">
@@ -116,40 +116,44 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 text-center">
-                    <h5>Trusted client by over 10,000+ of the world’s</h5>
+                    <h5>Chapters of IEEE University of Moratuwa Student Branch</h5>
                 </div>
                 <!--end col-->
             </div>
             <!--end row-->
 
-            <div class="row mt-5 justify-content-center">
+            <div id="customer-testi" class="row mt-5 owl-carousel owl-theme">
                 <div class="col-lg-2 col-md-2 col-6 text-center">
-                    <img src="images/client/amazon.svg" class="avatar avatar-ex-sm" alt="">
+                    <img src="images/chapters/comsoc.jpg" class="avatar avatar-ex-sm" alt="COMSOC">
                 </div>
                 <!--end col-->
 
                 <div class="col-lg-2 col-md-2 col-6 text-center">
-                    <img src="images/client/google.svg" class="avatar avatar-ex-sm" alt="">
+                    <img src="images/chapters/cs.jpg" class="avatar avatar-ex-sm" alt="">
                 </div>
                 <!--end col-->
 
                 <div class="col-lg-2 col-md-2 col-6 text-center mt-4 mt-sm-0">
-                    <img src="images/client/lenovo.svg" class="avatar avatar-ex-sm" alt="">
+                    <img src="images/chapters/embs.jpg" class="avatar avatar-ex-sm" alt="">
                 </div>
                 <!--end col-->
 
                 <div class="col-lg-2 col-md-2 col-6 text-center mt-4 mt-sm-0">
-                    <img src="images/client/paypal.svg" class="avatar avatar-ex-sm" alt="">
+                    <img src="images/chapters/ias.jpg" class="avatar avatar-ex-sm" alt="">
                 </div>
                 <!--end col-->
 
                 <div class="col-lg-2 col-md-2 col-6 text-center mt-4 mt-sm-0">
-                    <img src="images/client/shopify.svg" class="avatar avatar-ex-sm" alt="">
+                    <img src="images/chapters/pes.jpg" class="avatar avatar-ex-sm" alt="">
                 </div>
                 <!--end col-->
 
                 <div class="col-lg-2 col-md-2 col-6 text-center mt-4 mt-sm-0">
-                    <img src="images/client/spotify.svg" class="avatar avatar-ex-sm" alt="">
+                    <img src="images/chapters/ras.jpg" class="avatar avatar-ex-sm" alt="">
+                </div>
+
+                <div class="col-lg-2 col-md-2 col-6 text-center mt-4 mt-sm-0">
+                    <img src="images/chapters/wie.jpg" class="avatar avatar-ex-sm" alt="">
                 </div>
                 <!--end col-->
             </div>
@@ -171,9 +175,8 @@
 
                 <div class="col-lg-7 col-md-6 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
                     <div class="section-title ml-lg-4">
-                        <h4 class="title mb-4">About Our Community</h4>
+                        <h4 class="title mb-4">Welcome to IEEE University of Moratuwa</h4>
                         <p class="text-muted">Start working with <span class="text-primary font-weight-bold">Landrick Space</span> that can provide everything you need to generate awareness, drive traffic, connect. Dummy text is text that is used in the publishing industry or by web designers to occupy the space which will later be filled with 'real' content. This is required when, for example, the final text is not yet available. Dummy texts have been in use by typesetters since the 16th century.</p>
-                        <a href="javascript:void(0)" class="btn btn-primary mt-3">Join now</a>
                     </div>
                 </div>
                 <!--end col-->
@@ -287,238 +290,8 @@
     <!--end section-->
     <!-- Services End -->
 
-    <!-- CTA START -->
-    <section class="section">
-        <div class="container">
-            <div class="bg-light rounded">
-                <div class="row align-items-center">
-                    <div class="col-lg-6">
-                        <img src="images/coworking/cta.jpg" class="rounded img-fluid" alt="">
-                    </div>
-                    <!--end col-->
-
-                    <div class="col-lg-6 text-center">
-                        <div class="section-title p-5">
-                            <a href="http://vimeo.com/287684225" class="play-btn mt-0 border border-light text-center video-play-icon">
-                                <i class="mdi mdi-play text-dark"></i>
-                            </a>
-                            <h4 class="title mb-4 mt-4">We Are Creative Dreamers and Co-workers</h4>
-                            <p class="text-muted mx-auto para-desc mb-0">Start working with Landrick that can provide everything you need to generate awareness, drive traffic, connect.</p>
-                        </div>
-                    </div>
-                    <!--end col-->
-                </div>
-                <!--end row -->
-            </div>
-            <!--end div-->
-        </div>
-        <!--end container-->
-
-        <!-- Start Price -->
-        <div class="container mt-100 mt-60">
-            <div class="row justify-content-center">
-                <div class="col-12 text-center">
-                    <div class="section-title mb-4 pb-2">
-                        <h4 class="title mb-4">Choose The Pricing Plan</h4>
-                        <p class="text-muted para-desc mb-0 mx-auto">Start working with <span class="text-primary font-weight-bold">Landrick</span> that can provide everything you need to generate awareness, drive traffic, connect.</p>
-                    </div>
-                </div>
-                <!--end col-->
-            </div>
-            <!--end row-->
-
-            <div class="row align-items-center">
-                <div class="col-md-3 col-12 mt-4 pt-2">
-                    <div class="pricing-rates best-plan bg-light pt-5 pb-5 p-4 rounded text-center">
-                        <img src="images/icon/lightbulb.svg" class="mb-4" height="50" alt="">
-                        <h2 class="title text-uppercase mb-4">Member</h2>
-                        <div class="d-flex justify-content-center mb-4">
-                            <span class="h4 mb-0 mt-2">$</span>
-                            <span class="price h1 mb-0">19</span>
-                            <span class="h4 align-self-end mb-1">/mo</span>
-                        </div>
-
-                        <p class="text-muted">Start working with Landrick that can provide everything you need to generate awareness, drive traffic, connect.</p>
-                        <a href="javascript:void(0)" class="btn btn-outline-primary btn-sm mt-4">Buy Now</a>
-                    </div>
-                </div>
-                <!--end col-->
-
-                <div class="col-md-3 col-12 mt-4 pt-2">
-                    <div class="pricing-rates best-plan position-relative overflow-hidden shadow bg-white pt-5 pb-5 p-4 rounded text-center">
-                        <div class="lable text-center bg-primary pt-2 pb-2">
-                            <h6 class="best text-white mb-0 text-uppercase">Best</h6>
-                        </div>
-                        <img src="images/icon/table.svg" class="mb-4" height="50" alt="">
-                        <h2 class="title text-uppercase mb-4">Desk</h2>
-                        <div class="d-flex justify-content-center mb-4">
-                            <span class="h4 mb-0 mt-2">$</span>
-                            <span class="price h1 mb-0">39</span>
-                            <span class="h4 align-self-end mb-1">/mo</span>
-                        </div>
-
-                        <p class="text-muted">Start working with Landrick that can provide everything you need to generate awareness, drive traffic, connect.</p>
-                        <a href="javascript:void(0)" class="btn btn-outline-primary btn-sm mt-4">Get Started</a>
-                    </div>
-                </div>
-                <!--end col-->
-
-                <div class="col-md-3 col-12 mt-4 pt-2">
-                    <div class="pricing-rates best-plan bg-light pt-5 pb-5 p-4 rounded text-center">
-                        <img src="images/icon/star.svg" class="mb-4" height="50" alt="">
-                        <h2 class="title text-uppercase mb-4">Dedicated</h2>
-                        <div class="d-flex justify-content-center mb-4">
-                            <span class="h4 mb-0 mt-2">$</span>
-                            <span class="price h1 mb-0">49</span>
-                            <span class="h4 align-self-end mb-1">/mo</span>
-                        </div>
-
-                        <p class="text-muted">Start working with Landrick that can provide everything you need to generate awareness, drive traffic, connect.</p>
-                        <a href="javascript:void(0)" class="btn btn-outline-primary btn-sm mt-4">Get Started</a>
-                    </div>
-                </div>
-                <!--end col-->
-
-                <div class="col-md-3 col-12 mt-4 pt-2">
-                    <div class="pricing-rates best-plan bg-light pt-5 pb-5 p-4 rounded text-center">
-                        <img src="images/icon/start-up.svg" class="mb-4" height="50" alt="">
-                        <h2 class="title text-uppercase mb-4">Office</h2>
-                        <div class="d-flex justify-content-center mb-4">
-                            <span class="h4 mb-0 mt-2">$</span>
-                            <span class="price h1 mb-0">59</span>
-                            <span class="h4 align-self-end mb-1">/mo</span>
-                        </div>
-
-                        <p class="text-muted">Start working with Landrick that can provide everything you need to generate awareness, drive traffic, connect.</p>
-                        <a href="javascript:void(0)" class="btn btn-outline-primary btn-sm mt-4">Try It Now</a>
-                    </div>
-                </div>
-                <!--end col-->
-            </div>
-            <!--end row-->
-        </div>
-        <!--end container-->
-        <!-- End Price -->
-    </section>
-    <!--end section-->
-    <!-- CTA END -->
-
     <!-- Start Client And Blog -->
-    <section class="section bg-light">
-        <!-- Start Client -->
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-12 text-center">
-                    <div class="section-title mb-60">
-                        <h4 class="title mb-4">Trusted Co-workers</h4>
-                        <p class="text-muted para-desc mx-auto mb-0">Start working with <span class="text-primary font-weight-bold">Landrick</span> that can provide everything you need to generate awareness, drive traffic, connect.</p>
-                    </div>
-                </div>
-                <!--end col-->
-            </div>
-            <!--end row-->
-
-            <div class="row justify-content-center">
-                <div class="col-lg-12">
-                    <div id="customer-testi" class="owl-carousel owl-theme">
-                        <div class="media customer-testi m-2">
-                            <img src="images/client/01.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
-                            <div class="media-body content p-3 shadow rounded bg-white position-relative">
-                                <ul class="list-unstyled mb-0">
-                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                </ul>
-                                <p class="text-muted mt-2">" It seems that only fragments of the original text remain in the Lorem Ipsum texts used today. "</p>
-                                <h6 class="text-primary">- Thomas Israel <small class="text-muted">C.E.O</small></h6>
-                            </div>
-                        </div>
-
-                        <div class="media customer-testi m-2">
-                            <img src="images/client/02.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
-                            <div class="media-body content p-3 shadow rounded bg-white position-relative">
-                                <ul class="list-unstyled mb-0">
-                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                    <li class="list-inline-item"><i class="mdi mdi-star-half text-warning"></i></li>
-                                </ul>
-                                <p class="text-muted mt-2">" One disadvantage of Lorum Ipsum is that in Latin certain letters appear more frequently than others. "</p>
-                                <h6 class="text-primary">- Barbara McIntosh <small class="text-muted">M.D</small></h6>
-                            </div>
-                        </div>
-
-                        <div class="media customer-testi m-2">
-                            <img src="images/client/03.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
-                            <div class="media-body content p-3 shadow rounded bg-white position-relative">
-                                <ul class="list-unstyled mb-0">
-                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                </ul>
-                                <p class="text-muted mt-2">" The most well-known dummy text is the 'Lorem Ipsum', which is said to have originated in the 16th century. "</p>
-                                <h6 class="text-primary">- Carl Oliver <small class="text-muted">P.A</small></h6>
-                            </div>
-                        </div>
-
-                        <div class="media customer-testi m-2">
-                            <img src="images/client/04.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
-                            <div class="media-body content p-3 shadow rounded bg-white position-relative">
-                                <ul class="list-unstyled mb-0">
-                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                </ul>
-                                <p class="text-muted mt-2">" According to most sources, Lorum Ipsum can be traced back to a text composed by Cicero. "</p>
-                                <h6 class="text-primary">- Christa Smith <small class="text-muted">Manager</small></h6>
-                            </div>
-                        </div>
-
-                        <div class="media customer-testi m-2">
-                            <img src="images/client/05.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
-                            <div class="media-body content p-3 shadow rounded bg-white position-relative">
-                                <ul class="list-unstyled mb-0">
-                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                </ul>
-                                <p class="text-muted mt-2">" There is now an abundance of readable dummy texts. These are usually used when a text is required. "</p>
-                                <h6 class="text-primary">- Dean Tolle <small class="text-muted">Developer</small></h6>
-                            </div>
-                        </div>
-
-                        <div class="media customer-testi m-2">
-                            <img src="images/client/06.jpg" class="avatar avatar-small mr-3 rounded shadow" alt="">
-                            <div class="media-body content p-3 shadow rounded bg-white position-relative">
-                                <ul class="list-unstyled mb-0">
-                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                    <li class="list-inline-item"><i class="mdi mdi-star text-warning"></i></li>
-                                </ul>
-                                <p class="text-muted mt-2">" Thus, Lorem Ipsum has only limited suitability as a visual filler for German texts. "</p>
-                                <h6 class="text-primary">- Jill Webb <small class="text-muted">Designer</small></h6>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--end col-->
-            </div>
-            <!--end row-->
-        </div>
-        <!--end container-->
-        <!-- End Client -->
-
+    <section class="section">
         <!-- Start Blog -->
         <div class="container mt-100 mt-60">
             <div class="row justify-content-center">
@@ -612,67 +385,6 @@
     </section>
     <!--end section-->
     <!-- End Client And Blog -->
-
-    <!-- Start Form -->
-    <section class="section" style="background: url('images/coworking/bg04.jpg') center center;">
-        <div class="bg-overlay"></div>
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-8 col-md-7">
-                    <div class="section-title mr-lg-4">
-                        <h4 class="title title-dark text-light mb-4">We are Built for Business – Explore Us Today !</h4>
-                        <p class="text-light para-dark para-desc mb-0">Start working with <span class="text-success font-weight-bold">Landrick</span> that can provide everything you need to generate awareness, drive traffic, connect.</p>
-                    </div>
-                </div>
-                <!--end col-->
-
-                <div class="col-lg-4 col-md-5 mt-4 mt-sm-0 pt-2 pt-sm-0">
-                    <div class="bg-white rounded p-4 shadow">
-                        <h5 class="text-capitalize text-center">Become A Member</h5>
-                        <form>
-                            <div class="row mt-4">
-                                <div class="col-lg-12">
-                                    <div class="form-group mb-3">
-                                        <label>Your Name <span class="text-danger">*</span></label>
-                                        <input name="name" id="name3" type="text" class="form-control" placeholder="Name" required="">
-                                    </div>
-                                </div>
-                                <!--end col-->
-
-                                <div class="col-lg-12">
-                                    <div class="form-group mb-3">
-                                        <label>Your Email <span class="text-danger">*</span></label>
-                                        <input type="email" id="email3" class="form-control" placeholder="Email" name="email" required="">
-                                    </div>
-                                </div>
-                                <!--end col-->
-
-                                <div class="col-md-12">
-                                    <div class="form-group">
-                                        <label>Your Phone no. :<span class="text-danger">*</span></label>
-                                        <input name="number" id="number" type="number" class="form-control" placeholder="phone no. :" required="">
-                                    </div>
-                                </div>
-                                <!--end col-->
-
-                                <div class="col-lg-12 mb-0">
-                                    <button class="btn btn-primary btn-block">Started now</button>
-                                </div>
-                                <!--end col-->
-                            </div>
-                            <!--end row-->
-                        </form>
-                        <!--end form-->
-                    </div>
-                </div>
-                <!--end col-->
-            </div>
-            <!--end row-->
-        </div>
-        <!--end container-->
-    </section>
-    <!--end section-->
-    <!-- End Form -->
 
     <?php require_once('codeblocks/footer.php'); ?>
 
