@@ -48,7 +48,8 @@
 
     <section class="section">
         <div class="container">
-            <div class="row">
+            <div class="row justify-content-center">
+                <div align="center" class="col-md-8"><img src="images/ieee.jpg" class="img-fluid" width="100%"></div>
                 <div class="col-12">
                     <h1>Introduction</h1>
                     <p class="text-muted font-weight-normal">Institute of EEE is the world’s largest technical professional organization with over 419,000 members spread over 160 countries and is dedicated to advancing technology for the benefit of Humanity. IEEE currently possess a student member base of over 124,000 in 3,422 student branches at colleges and universities of over 100 countries. IEEE and its members inspire its community through its high-profile journals, conferences, technology standards, and professional and educational programs. 1,834 chapters of IEEE provide a platform for local members with similar technical interests to get together.

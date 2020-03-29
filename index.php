@@ -169,7 +169,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-5 col-md-6 col-12">
-                    <img src="images/coworking/about.jpg" class="img-fluid rounded" alt="">
+                    <img src="images/about.jpg" class="img-fluid rounded" alt="">
                 </div>
                 <!--end col-->
 
