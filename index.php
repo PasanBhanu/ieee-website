@@ -29,12 +29,8 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-12 text-center">
                                 <div class="title-heading mt-4">
-                                    <h6 class="text-light para-dark animated fadeInDownBig animation-delay-1">Private office and Co-working space for <span class="text-success">$19</span></h6>
-                                    <h1 class="heading mb-3 text-white title-dark animated fadeInUpBig animation-delay-3">Coworking Space For a Success</h1>
-                                    <p class="para-desc text-light para-dark mx-auto animated fadeInUpBig animation-delay-7">Launch your campaign and benefit from our expertise on designing and managing conversion centered bootstrap4 html page.</p>
-                                    <div class="mt-4 pt-2 animated fadeInUpBig animation-delay-11">
-                                        <a href="javascript:void(0)" class="btn btn-primary mt-2"><i class="mdi mdi-email"></i> Get Started</a>
-                                    </div>
+                                    <h1 class="heading mb-3 text-white title-dark animated fadeInUpBig animation-delay-3">Welcome to IEEE Student Branch, University of Moratuwa</h1>
+                                    <p class="para-desc text-light para-dark mx-auto animated fadeInUpBig animation-delay-7">The exceptional young minds inspired by passion to transform beyond excellence</p>
                                 </div>
                             </div>
                             <!--end col-->
@@ -51,19 +47,9 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-12 text-center">
                                 <div class="title-heading mt-4">
-                                    <h6 class="text-light para-dark animated fadeInDownBig animation-delay-1">The Best Coworking in The City</h6>
-                                    <h1 class="heading mb-3 text-white title-dark animated fadeInUpBig animation-delay-3">Office Space in Vietnam</h1>
-                                    <p class="para-desc mx-auto text-light para-dark animated fadeInUpBig animation-delay-7">Launch your campaign and benefit from our expertise on designing and managing conversion centered bootstrap4 html page.</p>
-                                    <div class="text-center subcribe-form mt-4 pt-2 animated fadeInUpBig animation-delay-11">
-                                        <form>
-                                            <div class="form-group">
-                                                <input type="email" id="email" name="email" class=" rounded" placeholder="E-mail">
-                                                <button type="submit" class="btn btn-primary">Book Space</button>
-                                            </div>
-                                        </form>
-                                        <!--end form-->
-                                    </div>
-                                    <!--end subscribe form-->
+                                    <h6 class="text-light para-dark animated fadeInDownBig animation-delay-1">IEEE Team</h6>
+                                    <h1 class="heading mb-3 text-white title-dark animated fadeInUpBig animation-delay-3">The battalion of Soldiers</h1>
+                                    <p class="para-desc mx-auto text-light para-dark animated fadeInUpBig animation-delay-7">March forward for the success of the student branch inspired by the passion to transform beyond Excellence</p>
                                 </div>
                             </div>
                             <!--end col-->
